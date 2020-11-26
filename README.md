@@ -8,12 +8,12 @@ Grave um vídeo com no máx 10 min apresentando seu software: equações emprega
 ## Iniciando a aplicação
 Para instalar as dependencias, execute no terminal:
 
-- pip3 install pillow
-- pip3 install numpy
-- pip3 install pandas
-- pip3 install tkinter
-- pip3 install matplotlib
+- 👉 pip3 install pillow
+- 👉 pip3 install numpy
+- 👉 pip3 install pandas
+- 👉 pip3 install tkinter
+- 👉 pip3 install matplotlib
 
 Depois execute:
 
-- python3 interface.py
+- 👉 python3 interface.py
