@@ -1,1 +1,0 @@
-source ft/bin/activate
