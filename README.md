@@ -6,6 +6,7 @@ Para tanto, considere que a barragem tem a mesma altura do nível de fluido, e q
 Grave um vídeo com no máx 10 min apresentando seu software: equações empregadas, algoritmo e teste com diferentes combinações de peso específico do fluido, altura e largura da barragem.
 
 ## Iniciando a aplicação
+### Código fonte
 Para instalar as dependencias, execute no terminal:
 
 - 👉 pip3 install pillow
@@ -17,3 +18,8 @@ Para instalar as dependencias, execute no terminal:
 Depois execute:
 
 - 👉 python3 interface.py
+
+### Executável Linux
+No terminal, execute:
+
+- 👉 ./fenomenos
